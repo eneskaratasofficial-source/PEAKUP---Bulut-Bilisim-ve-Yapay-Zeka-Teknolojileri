@@ -1,0 +1,15 @@
+# Python ortam dosyaları
+venv/
+__pycache__/
+*.pyc
+
+# Büyük Veri Setleri (Github'a Yüklenmesi Yasaklı/Gereksiz Dosyalar)
+data/
+data/raw/
+data/raw/twibot-20/
+data/raw/cresci-2017/
+*.csv
+*.json
+
+# Gereksiz sistem dosyaları
+.DS_Store
