@@ -1,0 +1,15 @@
+CRESCI-2017 FULL BATCH (14K + Augmented) EVALUATION:
+Total Final Samples: 17368
+Model: XGBoost
+Accuracy: 0.9666
+F1-Score: 0.9435
+ROC-AUC: 0.9939
+
+              precision    recall  f1-score   support
+
+           0       0.99      0.97      0.98      2470
+           1       0.92      0.97      0.94      1004
+
+    accuracy                           0.97      3474
+   macro avg       0.95      0.97      0.96      3474
+weighted avg       0.97      0.97      0.97      3474
